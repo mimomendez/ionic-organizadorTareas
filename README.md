@@ -1,6 +1,6 @@
 # ionic-organizadorTareas
 
-Step to run this repo locally:
+Steps to run this repo locally:
 * Clone the repository
 * npm install
 * ionic serve (port 8100)
